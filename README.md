@@ -7,4 +7,4 @@
 - 💬 Ask me about research opportunities. Not all are paid but can lead to other glory, including co-authored publications.
 - 📫 How to reach me: See https://gkt.cs.luc.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: When I am not coding, I am either at the other keyboard (piano) or cooking.
+- ⚡ Fun fact: When I am not coding or writing, I am either at the other keyboard (piano) or cooking.
