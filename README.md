@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on everything, especially in computer science, software engineering, machine learning, etc.
 - 🤔 I’m looking for help with research.
 - 💬 Ask me about research opportunities. Not all are paid but can lead to other glory, including co-authored publications.
-- 📫 How to reach me: See https://gkt.cs.luc.edu
+- 📫 How to reach me: See [gkt.cs.luc.edu](https://gkt.cs.luc.edu)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: When I am not coding or writing, I am either at the other keyboard (piano) or cooking.
